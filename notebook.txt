@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 doing_math()
+=======
+getting_french
+>>>>>>> french_branch
